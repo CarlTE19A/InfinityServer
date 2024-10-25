@@ -1,0 +1,15 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Gateway:G:-179:66:11838:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:1460:73:7716:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:1791:65:3675:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:1797:71:3453:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:1042:68:1328:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:2653:62:5879:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:3733:69:2010:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:522:71:3051:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:1064:70:-1241:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:5655:61:-4084:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:4764:62:-3411:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:3768:61:-2507:5:false:0:gui.xaero_default:false:0:0:false

@@ -1,0 +1,150 @@
+sets:Area Names:gui.xaero_default:Places:Lore Places:Generated:None
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Amethyst:A:-244:-51:-2329:5:true:0:gui.xaero_default:false:0:0:false
+waypoint:Fish File Island:F:177:140:-2458:8:false:0:Area Names:false:0:0:false
+waypoint:Small Mac:S:23:84:-2261:8:false:0:Area Names:false:0:0:false
+waypoint:Big Mac:B:258:126:-2117:8:false:0:Area Names:false:0:0:false
+waypoint:Tripple Cheese Isles:T:394:63:-2198:3:false:0:Area Names:false:0:0:false
+waypoint:Salmon Cheese:S:372:72:-2193:8:false:0:Area Names:false:0:0:false
+waypoint:Cod Cheese:C:352:71:-2246:8:false:0:Area Names:false:0:0:false
+waypoint:Tropical Cheese:T:374:69:-2137:8:false:0:Area Names:false:0:0:false
+waypoint:Steve:S:2077:83:991:8:false:0:Area Names:false:0:0:false
+waypoint:Joe Mama Island:jm:2060:69:778:8:false:0:Area Names:false:0:0:false
+waypoint:Noxian ö 38:N:-2375:75:-2101:8:false:0:Area Names:false:0:0:false
+waypoint:The Minecorp Mines:MM:-424:112:-2235:4:false:0:Area Names:false:0:0:false
+waypoint:Jeffrey Epstiens Island:J:-1681:74:2331:8:false:0:Area Names:false:0:0:false
+waypoint:Bob Dylan Island:B:-1650:69:2468:8:false:0:Area Names:false:0:0:false
+waypoint:Amethyst Point:A:-2255:81:714:8:false:0:Area Names:false:0:0:false
+waypoint:Sunfish Watch:S:818:101:-484:8:false:0:Area Names:false:0:0:false
+waypoint:Sunfish Island:S:607:96:-858:3:false:0:Area Names:false:0:0:false
+waypoint:Firstborn spire:F:393:160:-1076:7:false:0:Area Names:false:0:0:false
+waypoint:Babycrest Islet:B:-634:80:-517:8:false:0:Area Names:false:0:0:false
+waypoint:ShovelMaster Island:S:213:66:217:8:false:0:Area Names:false:0:0:false
+waypoint:Pirats Shoal:PS:92:63:-280:8:false:0:Area Names:false:0:0:false
+waypoint:Timberfrost Forest:T:-584:81:-2635:2:false:0:Area Names:false:0:0:false
+waypoint:The Heartstream:HS:-3685:63:-1310:9:false:0:Area Names:false:0:0:false
+waypoint:Stormbend River:S:-1519:84:386:9:false:0:Area Names:false:0:0:false
+waypoint:Northside Pine:N:-333:76:-2584:2:false:0:Area Names:false:0:0:false
+waypoint:VeilWater:V:-1817:63:801:9:false:0:Area Names:false:0:0:false
+waypoint:Embergate Bay:E:-1021:63:-1789:9:false:0:Area Names:false:0:0:false
+waypoint:Ionian Heartlands:I:-531:60:-2054:8:false:0:Area Names:false:0:0:false
+waypoint:Daemoncliff Estate:D:-1205:167:-2147:4:false:0:Area Names:false:0:0:false
+waypoint:Windscar Cliffs:W:-650:113:-1800:8:false:0:Area Names:false:0:0:false
+waypoint:Driftcrest Isle:D:-544:78:-592:8:false:0:Area Names:false:0:0:false
+waypoint:Stormcrest Isle:S:-765:77:-625:8:false:0:Area Names:false:0:0:false
+waypoint:Icathia:I:-1540:70:2038:6:false:0:Area Names:false:0:0:false
+waypoint:Wyrdwood Bay:WB:-929:63:-2263:9:false:0:Area Names:false:0:0:false
+waypoint:Wyrdwood:WW:-889:77:-2196:2:false:0:Area Names:false:0:0:false
+waypoint:Maledict Forest:MF:-867:71:-2537:2:false:0:Area Names:false:0:0:false
+waypoint:Warden Rock:W:-146:89:-1649:8:false:0:Area Names:false:0:0:false
+waypoint:MT Targon:MT:-3969:314:1427:5:false:0:Area Names:false:0:0:false
+waypoint:Piltover:P:-1967:93:-157:6:false:0:Area Names:false:0:0:false
+waypoint:Demacia:D:-5252:63:-992:6:false:0:Area Names:false:0:0:false
+waypoint:Timberfrost:C:-549:63:-2697:9:false:0:Area Names:false:0:0:false
+waypoint:EmberGate Port:E:-1134:69:-1754:4:false:0:Area Names:false:0:0:false
+waypoint:Axefall Pass:A:-943:133:-2029:8:false:0:Area Names:false:0:0:false
+waypoint:DrakkenGate:!!:-1779:248:-1201:0:false:0:Area Names:false:0:0:false
+waypoint:Noxian Coast:N:-2602:63:-1580:5:false:0:Area Names:false:0:0:false
+waypoint:Noxian Plains:N:-2955:136:-1390:6:false:0:Area Names:false:0:0:false
+waypoint:The Great Sai:T:-2518:73:772:6:false:0:Area Names:false:0:0:false
+waypoint:Inner vail Shallows:IV:-1185:63:-2514:8:false:0:Area Names:false:0:0:false
+waypoint:Outer Veil Shallows:OV:-1253:63:-2595:8:false:0:Area Names:false:0:0:false
+waypoint:Duskbane Reefs:D:-1430:63:-2433:8:false:0:Area Names:false:0:0:false
+waypoint:Sunken Shoals:S:-1439:63:-2197:8:false:0:Area Names:false:0:0:false
+waypoint:Ember Shallows:E:-1305:63:-1964:8:false:0:Area Names:false:0:0:false
+waypoint:The Ember Straight:ES:-1298:63:-1455:9:false:0:Area Names:false:0:0:false
+waypoint:Marble Peaks:MP:-1830:152:-803:5:false:0:Area Names:false:0:0:false
+waypoint:Marble Coast:M:-1465:63:-1094:5:false:0:Area Names:false:0:0:false
+waypoint:Stepstone Isles:S:-1801:84:-1485:8:false:0:Area Names:false:0:0:false
+waypoint:The Low Sea:LS:994:40:1283:9:false:0:Area Names:false:0:0:false
+waypoint:The Crysal Caverns:CC:-2698:132:234:5:false:0:Area Names:false:0:0:false
+waypoint:The Prismatic Starfish:T:-7101:90:1158:5:false:0:Area Names:false:0:0:false
+waypoint:Serpentine River:S:-1419:63:845:9:false:0:Area Names:false:0:0:false
+waypoint:Stormwatch Heights:SH:-962:162:-458:8:false:0:Area Names:false:0:0:false
+waypoint:Stormwatch:!!:-927:165:-117:0:false:0:Area Names:false:0:0:false
+waypoint:The Boomerang Coast:BC:-938:63:967:5:false:0:Area Names:false:0:0:false
+waypoint:Serpentine Delta:S:-816:101:461:5:false:0:Area Names:false:0:0:false
+waypoint:BilgeWater Isles:B:-171:135:79:6:false:0:Area Names:false:0:0:false
+waypoint:Devil's GaTe:DG:-69:-40:-65:5:false:0:Area Names:false:0:0:false
+waypoint:"Secret" "Missile" Isle:I:-2051:113:-154:8:false:0:Area Names:false:0:0:false
+waypoint:Well of Life:W:-2935:113:1306:2:false:0:Area Names:false:0:0:false
+waypoint:Black Ice Mountain Range:BI:-5099:261:-2255:5:false:0:Area Names:false:0:0:false
+waypoint:Marble Forest:M:-2036:96:-1047:2:false:0:Area Names:false:0:0:false
+waypoint:Spermside Peak:SS:-1849:267:-385:8:false:0:Area Names:false:0:0:false
+waypoint:Cumsplater Isle:C:-1566:83:-59:8:false:0:Area Names:false:0:0:false
+waypoint:Penis Peninsula:PP:-1629:82:-190:8:false:0:Area Names:false:0:0:false
+waypoint:Lupine Peak:LP:15:144:-2648:8:false:0:Area Names:false:0:0:false
+waypoint:Lost fang Isle:LF:284:75:-2691:8:false:0:Area Names:false:0:0:false
+waypoint:Lupine Isle:L:71:75:-2716:3:false:0:Area Names:false:0:0:false
+waypoint:Fishfucker Forest:FF:15:85:-1914:2:false:0:Area Names:false:0:0:false
+waypoint:Gillshade Junge:G:538:125:-1481:2:false:0:Area Names:false:0:0:false
+waypoint:Portfin Forest:P:166:87:-1621:2:false:0:Area Names:false:0:0:false
+waypoint:The Shitstain Isles:SI:-2466:74:-2091:8:false:0:Area Names:false:0:0:false
+waypoint:Shitstain Peak:S:-2538:231:-2052:8:false:0:Area Names:false:0:0:false
+waypoint:Ionia:I:-496:98:-2186:6:false:0:Area Names:false:0:0:false
+waypoint:Ashenfang:A:-7727:207:-2356:5:false:0:Area Names:false:0:0:false
+waypoint:Blossomwood:B:-880:76:-1734:2:false:0:Area Names:false:0:0:false
+waypoint:The Cove:C:-1104:76:-2106:8:false:0:Area Names:false:0:0:false
+waypoint:The Weald:W:-831:80:-2168:8:false:0:Area Names:false:0:0:false
+waypoint:Hamlet:!!:-811:81:-2289:0:false:0:Area Names:false:0:0:false
+waypoint:Timberfrost Springs:HS:-705:87:-2696:8:false:0:Area Names:false:0:0:false
+waypoint:Fish Spine Isle:FS:354:169:-1565:3:false:0:Area Names:false:0:0:false
+waypoint:Spine Peninsula:S:158:157:-1230:8:false:0:Area Names:false:0:0:false
+waypoint:quattordecaplets Spires:CS:456:162:-1140:6:false:0:Area Names:false:0:0:false
+waypoint:Spire Lake:SL:453:63:-1179:1:false:0:Area Names:false:0:0:false
+waypoint:ShipBreaker Atoll:SA:-245:63:-1429:8:false:0:Area Names:false:0:0:false
+waypoint:The Great Ice Wall:I:-1480:63:-3482:5:false:0:Area Names:false:0:0:false
+waypoint:Shark Tooth Shallows:S:821:63:-1094:8:false:0:Area Names:false:0:0:false
+waypoint:Metiour Rock:MR:-737:63:-1535:8:false:0:Area Names:false:0:0:false
+waypoint:The Royal Spire:RS:-890:166:-1465:3:false:0:Area Names:false:0:0:false
+waypoint:Mountain:?:-522:290:-2378:0:false:0:Area Names:false:0:0:false
+waypoint:Death Valley:DV:-627:74:-1857:8:false:0:Area Names:false:0:0:false
+waypoint:The Steelbound Consortium:SC:-518:154:-1658:9:false:0:Places:false:0:0:false
+waypoint:Circleside Farm:C:-514:64:-1860:6:false:0:Places:false:0:0:false
+waypoint:Gurra´s Gate:G:-371:85:-1845:2:false:0:Places:false:0:0:false
+waypoint:The Emberforge:F:-1132:-30:-1481:4:false:0:Places:false:0:0:false
+waypoint:Seaworld:S:574:63:-2284:9:false:0:Places:false:0:0:false
+waypoint:Old waif's:OW:-826:70:-2169:2:false:0:Places:false:0:0:false
+waypoint:Minecorp (Second Grade Dwarf):MC:-427:112:-2237:6:false:0:Places:false:0:0:false
+waypoint:Emberforge Imperium:E:-1132:71:-1720:4:false:0:Places:false:0:0:false
+waypoint:The Pharoh Pyramid:P:-2557:160:1255:14:false:0:Lore Places:false:0:0:false
+waypoint:Dúrin The Slavetrader:D:58:129:-2437:11:false:0:Lore Places:false:0:0:false
+waypoint:Unlooted Trial Chamber:U:3961:-6:-4690:9:false:0:Generated:false:0:0:false
+waypoint:Unlooted Trial Chamber:U:4457:17:-4355:9:false:0:Generated:false:0:0:false
+waypoint:Unlooted Ancient City?:U:4613:88:-4487:3:false:0:Generated:false:0:0:false
+waypoint:Unlooted Trial Chamber:U:4697:-36:-4671:9:false:0:Generated:false:0:0:false
+waypoint:Trial Chamber:T:5195:-6:-5295:6:false:0:Generated:false:0:0:false
+waypoint:Trial Chamber:T:3513:63:-5982:6:false:0:Generated:false:0:0:false
+waypoint:Trial Chamber:T:-3482:63:-4642:6:false:0:Generated:false:0:0:false
+waypoint:Trial Chamber:T:-4312:63:-4690:6:false:0:Generated:false:0:0:false
+waypoint:Slime Chunk:S:-1141:-46:-1484:2:false:0:Generated:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:-2571:-48:-6873:0:false:2:Generated:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-2571:-48:-6873:0:false:2:Generated:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-2575:-47:-6876:0:false:2:Generated:false:0:1:true
+waypoint:Ancient City:A:-2585:-50:-6857:7:false:0:Generated:false:0:0:false
+waypoint:Stronghold:S:-1687:-25:-11489:8:false:0:Generated:false:0:0:false
+waypoint:Trail Ruin - not done:T:-807:76:-5963:4:false:0:Generated:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:-2974:-54:-7405:0:false:2:Generated:false:0:1:true
+waypoint:Ancient City:A:-3081:-33:-7432:0:false:0:Generated:false:0:0:false
+waypoint:Shipwreak:S:-954:63:-7488:6:false:0:Generated:false:0:0:false
+waypoint:Ocean Monument:O:-720:63:-7553:3:false:0:Generated:false:0:0:false
+waypoint:Village:V:-1075:63:-10227:14:false:0:Generated:false:0:0:false
+waypoint:Raid Tower:R:-1206:83:-10406:8:false:0:Generated:false:0:0:false
+waypoint:Desert Temple:D:-752:69:-10452:1:false:0:Generated:false:0:0:false
+waypoint:Village:V:-735:66:-11299:14:false:0:Generated:false:0:0:false
+waypoint:Mangrove Swamp:M:-2497:79:-11700:2:false:0:Generated:false:0:0:false
+waypoint:Raid Tower:R:-1786:80:-11978:8:false:0:Generated:false:0:0:false
+waypoint:Desert Temple:D:-1206:53:-11558:1:false:0:Generated:false:0:0:false
+waypoint:Village:V:-1518:68:-11718:14:false:0:Generated:false:0:0:false
+waypoint:Village:V:-1545:68:-10492:14:false:0:Generated:false:0:0:false
+waypoint:Village:V:-1265:84:-9972:14:false:0:Generated:false:0:0:false
+waypoint:Village:V:-1058:81:-9584:14:false:0:Generated:false:0:0:false
+waypoint:Village:V:-1448:67:-9636:14:false:0:Generated:false:0:0:false
+waypoint:Reef:R:-1531:63:-9662:3:false:0:Generated:false:0:0:false
+waypoint:Mesa:M:-1262:69:-9234:6:false:0:Generated:false:0:0:false
+waypoint:Mushroom Island:M:-1254:74:-8412:13:false:0:Generated:false:0:0:false
+waypoint:Ocean Monument:O:-1216:63:-8100:3:false:0:Generated:false:0:0:false
+waypoint:Village:V:-981:70:-5673:14:false:0:Generated:false:0:0:false
+waypoint:Mansion:M:-1006:82:-5097:6:false:0:Generated:false:0:0:false

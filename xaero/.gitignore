@@ -1,0 +1,5 @@
+minimap/*
+!minimap/Multiplayer_192.168.1.87
+
+world-map/*
+!world-map/Multiplayer_192.168.1.87
